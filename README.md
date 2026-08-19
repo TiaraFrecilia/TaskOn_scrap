@@ -1,4 +1,4 @@
-# TaskOn Quest Bot 🤖
+# TaskOn Quest Scraper 🤖
 
 Monitor quest **TaskOn** (https://taskon.xyz) otomatis — scrape data quest yang sedang berjalan, susun laporan rapi, dan kirim ke channel Telegram setiap hari.
 
