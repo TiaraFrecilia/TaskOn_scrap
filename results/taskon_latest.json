@@ -1,0 +1,355 @@
+{
+  "fetched_at": "2026-08-19T05:17:10.714299+00:00",
+  "items": [
+    {
+      "id": 756084990,
+      "title": "Social Boost: Follow X to unlock rewards- Fortune",
+      "status": "OnGoing",
+      "start": "2026-07-31 03:10",
+      "end": "2026-08-25 15:00",
+      "community": "TaskOn Club",
+      "community_status": "goldVerified",
+      "share_url": "https://taskon.xyz/campaign/detail/756084990",
+      "tasks": [
+        {
+          "task": "Follow Twitter",
+          "platform": "Twitter",
+          "detail": "TruthX_com",
+          "points": 0,
+          "optional": false,
+          "class_type": "OffChain",
+          "recurrence": "Once"
+        },
+        {
+          "task": "Follow Twitter",
+          "platform": "Twitter",
+          "detail": "TruthXcn",
+          "points": 0,
+          "optional": false,
+          "class_type": "OffChain",
+          "recurrence": "Once"
+        },
+        {
+          "task": "Follow Twitter",
+          "platform": "Twitter",
+          "detail": "fortuneglobal_",
+          "points": 0,
+          "optional": false,
+          "class_type": "OffChain",
+          "recurrence": "Once"
+        }
+      ],
+      "rewards": [
+        "10 EXP",
+        "5 USDT bsc"
+      ]
+    },
+    {
+      "id": 382178395,
+      "title": "Earnalot x TaskOn: $100 Launch Quest",
+      "status": "OnGoing",
+      "start": "2026-08-06 05:29",
+      "end": "2026-08-21 03:52",
+      "community": "Earnalot",
+      "community_status": "goldVerified",
+      "share_url": "https://taskon.xyz/campaign/detail/382178395",
+      "tasks": [
+        {
+          "task": "Follow Twitter",
+          "platform": "Twitter",
+          "detail": "Earnalot888",
+          "points": 0,
+          "optional": false,
+          "class_type": "OffChain",
+          "recurrence": "Once"
+        },
+        {
+          "task": "Retweet a tweet",
+          "platform": "Twitter",
+          "detail": "Earnalot",
+          "points": 0,
+          "optional": false,
+          "class_type": "OffChain",
+          "recurrence": "Once"
+        },
+        {
+          "task": "Join Telegram",
+          "platform": "Telegram",
+          "detail": "earnalotchannel",
+          "points": 0,
+          "optional": false,
+          "class_type": "OffChain",
+          "recurrence": "Once"
+        },
+        {
+          "task": "Launch Telegram Mini App",
+          "platform": "Telegram",
+          "detail": "",
+          "points": 0,
+          "optional": false,
+          "class_type": "OffChain",
+          "recurrence": "Once"
+        }
+      ],
+      "rewards": [
+        "10 USDT bsc"
+      ]
+    },
+    {
+      "id": 466833792,
+      "title": "Follow & Win with Cregis 🎁",
+      "status": "OnGoing",
+      "start": "2026-08-05 09:00",
+      "end": "2026-09-05 15:59",
+      "community": "Cregis",
+      "community_status": "goldVerified",
+      "share_url": "https://taskon.xyz/campaign/detail/466833792",
+      "tasks": [
+        {
+          "task": "Follow Twitter",
+          "platform": "Twitter",
+          "detail": "0xCregis",
+          "points": 1,
+          "optional": false,
+          "class_type": "OffChain",
+          "recurrence": "Once"
+        },
+        {
+          "task": "Subscribe to a Channel on YouTube",
+          "platform": "Youtube",
+          "detail": "",
+          "points": 1,
+          "optional": false,
+          "class_type": "OffChain",
+          "recurrence": "Once"
+        },
+        {
+          "task": "Visit a Specified Web Page",
+          "platform": "Visit Website",
+          "detail": "",
+          "points": 1,
+          "optional": false,
+          "class_type": "OffChain",
+          "recurrence": "Once"
+        },
+        {
+          "task": "Join Your Community",
+          "platform": "Join Community Hub",
+          "detail": "",
+          "points": 1,
+          "optional": false,
+          "class_type": "OffChain",
+          "recurrence": "Once"
+        }
+      ],
+      "rewards": [
+        "20 Points",
+        "20 EXP",
+        "5 USDT bsc",
+        "4 Points"
+      ]
+    },
+    {
+      "id": 807831580,
+      "title": "Secure for Q-Day. Earn USDT Today.🔐",
+      "status": "OnGoing",
+      "start": "2026-06-21 10:00",
+      "end": "2026-08-21 15:00",
+      "community": "qLABS",
+      "community_status": "goldVerified",
+      "share_url": "https://taskon.xyz/campaign/detail/807831580",
+      "tasks": [
+        {
+          "task": "Completion-Based API Task",
+          "platform": "API-Verified Task",
+          "detail": "",
+          "points": 0,
+          "optional": false,
+          "class_type": "Custom",
+          "recurrence": "Once"
+        }
+      ],
+      "rewards": [
+        "30 EXP",
+        "0.5 USDT bsc"
+      ]
+    },
+    {
+      "id": 554159928,
+      "title": "🔥 INSTANT REWARDS 🔥 Join Travala & WIN $500 USDT ",
+      "status": "OnGoing",
+      "start": "2026-08-01 07:00",
+      "end": "2026-08-31 09:31",
+      "community": "Travala.com",
+      "community_status": "goldVerified",
+      "share_url": "https://taskon.xyz/campaign/detail/554159928",
+      "tasks": [
+        {
+          "task": "Follow Twitter",
+          "platform": "Twitter",
+          "detail": "travalacom",
+          "points": 100,
+          "optional": false,
+          "class_type": "OffChain",
+          "recurrence": "Once"
+        },
+        {
+          "task": "Follow Twitter",
+          "platform": "Twitter",
+          "detail": "AVAFoundation",
+          "points": 1,
+          "optional": false,
+          "class_type": "OffChain",
+          "recurrence": "Once"
+        },
+        {
+          "task": "API-Verified Task",
+          "platform": "API-Verified Task",
+          "detail": "",
+          "points": 200,
+          "optional": false,
+          "class_type": "Custom",
+          "recurrence": "Once"
+        },
+        {
+          "task": "Like a video on YouTube",
+          "platform": "Youtube",
+          "detail": "",
+          "points": 50,
+          "optional": false,
+          "class_type": "OffChain",
+          "recurrence": "Once"
+        },
+        {
+          "task": "Subscribe to a Channel on YouTube",
+          "platform": "Youtube",
+          "detail": "",
+          "points": 50,
+          "optional": false,
+          "class_type": "OffChain",
+          "recurrence": "Once"
+        },
+        {
+          "task": "Join a community on Reddit",
+          "platform": "Reddit",
+          "detail": "",
+          "points": 50,
+          "optional": false,
+          "class_type": "OffChain",
+          "recurrence": "Once"
+        }
+      ],
+      "rewards": [
+        "100 XP Points",
+        "40 EXP",
+        "20 USDT polygon",
+        "200 USDT polygon",
+        "451 XP Points"
+      ]
+    },
+    {
+      "id": 658393311,
+      "title": "Be a Continuum Early Supporter",
+      "status": "OnGoing",
+      "start": "2026-07-29 10:00",
+      "end": "2026-08-21 15:00",
+      "community": "Continuum Labs",
+      "community_status": "goldVerified",
+      "share_url": "https://taskon.xyz/campaign/detail/658393311",
+      "tasks": [
+        {
+          "task": "Follow Twitter",
+          "platform": "Twitter",
+          "detail": "continuumlabs_",
+          "points": 0,
+          "optional": false,
+          "class_type": "OffChain",
+          "recurrence": "Once"
+        },
+        {
+          "task": "Follow Twitter",
+          "platform": "Twitter",
+          "detail": "iamtanya338",
+          "points": 0,
+          "optional": false,
+          "class_type": "OffChain",
+          "recurrence": "Once"
+        },
+        {
+          "task": "Retweet a tweet",
+          "platform": "Twitter",
+          "detail": "Continuum Labs",
+          "points": 0,
+          "optional": false,
+          "class_type": "OffChain",
+          "recurrence": "Once"
+        },
+        {
+          "task": "Join Discord",
+          "platform": "Discord",
+          "detail": "",
+          "points": 0,
+          "optional": false,
+          "class_type": "OffChain",
+          "recurrence": "Once"
+        },
+        {
+          "task": "Join Telegram",
+          "platform": "Telegram",
+          "detail": "continuumlabs",
+          "points": 0,
+          "optional": false,
+          "class_type": "OffChain",
+          "recurrence": "Once"
+        }
+      ],
+      "rewards": [
+        "10 USDC bsc"
+      ]
+    },
+    {
+      "id": 143654301,
+      "title": "Fiat Trading Campaign ",
+      "status": "OnGoing",
+      "start": "2026-07-22 01:00",
+      "end": "2026-08-22 01:00",
+      "community": "Predit Market",
+      "community_status": "goldVerified",
+      "share_url": "https://taskon.xyz/campaign/detail/143654301",
+      "tasks": [
+        {
+          "task": "Follow Twitter",
+          "platform": "Twitter",
+          "detail": "preditmarket",
+          "points": 0,
+          "optional": false,
+          "class_type": "OffChain",
+          "recurrence": "Once"
+        },
+        {
+          "task": "Join Discord",
+          "platform": "Discord",
+          "detail": "",
+          "points": 0,
+          "optional": false,
+          "class_type": "OffChain",
+          "recurrence": "Once"
+        },
+        {
+          "task": "Completion-Based API Task",
+          "platform": "API-Verified Task",
+          "detail": "",
+          "points": 0,
+          "optional": false,
+          "class_type": "Custom",
+          "recurrence": "Once"
+        }
+      ],
+      "rewards": [
+        "30 EXP",
+        "10 USDC solana"
+      ]
+    }
+  ],
+  "scraped_at": "2026-08-19 12:17:15"
+}
